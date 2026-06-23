@@ -31,5 +31,5 @@ Consumer segment contributes the highest sales.
 Office Supplies category generates the most revenue.
 Standard Class is the most frequently used shipping mode.
 6. Screenschots / Demos
-   Show How Dashboard looks like . (https://github.com/Adibkhan5426/Super-Store-Sales-Dashboard/blob/main/Super-Store-Sales-Dashboard.png).
-   Example:![Dashboard Preview].(https://github.com/Adibkhan5426/Super-Store-Sales-Dashboard/blob/main/Super-Store-Sales-Dashboard.png).
+   Show How Dashboard looks like <a href="https://github.com/Adibkhan5426/Super-Store-Sales-Dashboard/blob/main/Super-Store-Sales-Dashboard.png">view Dashboard</a>
+   
