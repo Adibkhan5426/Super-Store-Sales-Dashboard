@@ -1,4 +1,4 @@
- Super-Store-Sales-Dashboard
+ Super-Store-Sales-Dashboard using Power bi
 1. 📌 Project Overview
 This project analyzes Super Store sales data using Power BI to provide insights into sales performance, profit trends, customer behavior, and regional performance. The dashboard helps stakeholders make data-driven decisions through interactive visualizations.
 2. 🎯 Objectives
